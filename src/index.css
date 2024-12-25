@@ -59,3 +59,8 @@ body {
     @apply bg-gray-100;
   }
 }
+@layer base {
+  :root {
+    --radius: 0.5rem;
+  }
+}
